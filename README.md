@@ -51,9 +51,15 @@ Here's what you'll be able to do:
 
 <img src="https://github.com/GuilhermeSimoes/Sublime4Ruby/raw/master/images/erb.gif" />
 
-### Syntax Highlighting for Sass
+### Syntax Highlighters
+
+#### Sass
 
 A syntax highlighter for Sass that supports both `scss` and `sass` syntaxes.
+
+#### CoffeeScript
+
+A syntax highlighter for `coffee` files.
 
 ## Contributing
 
