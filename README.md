@@ -2,9 +2,21 @@
 
 Here are some suggestions to improve your Sublime experience:
 
-## Tab switch like in any browser
+## Key Bindings
 
-Go to `Preferences -> Key Bindings - User` and add the following key combinations:
+Go to `Preferences -> Key Bindings - User` and add the key combinations presented to achieve the following functionalities:
+
+### Reveal the current file in the sidebar
+
+Handy for finding the location of a Rails file.
+
+```json
+[
+{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar" }
+]
+```
+
+### Tab switch like in any browser
 
 ```json
 [
