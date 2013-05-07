@@ -27,13 +27,13 @@ Handy for finding the location of a Rails file.
 
 ## Exclude unrelated folders
 
-This will prevent unrelated folders and files therein from appearing in the sidebar **and** in your search results with `Ctrl+P`.
+This will prevent unrelated folders and files therein from appearing in the sidebar **and** in your search results with `Ctrl+P` or `⌘+P`.
 
-Go to `Preferences -> Settings-Default`, search for `folder_exclude_patterns` using `Ctrl+F` or `⌘+F` and add the following:
+Go to `Preferences -> Settings - User` and add the following:
 
 ```json
 {
-"folder_exclude_patterns": ["tmp", ".sass-cache", "coverage"]
+"folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "coverage", "tmp"]
 }
 ```
 
