@@ -6,7 +6,7 @@ Here are some suggestions to improve your Sublime experience:
 
 Go to `Preferences -> Key Bindings - User` and add the key combinations presented to achieve the following functionalities:
 
-### Reveal the current file in the sidebar
+**Reveal the current file in the sidebar**
 
 Handy for finding the location of a Rails file.
 
@@ -16,7 +16,7 @@ Handy for finding the location of a Rails file.
 ]
 ```
 
-### Tab switch like in any browser
+**Tab switch like in any browser**
 
 ```json
 [
@@ -49,9 +49,9 @@ The `Discover Package` command will take you to [this webpage](http://wbond.net/
 
 Next, I'll display some of the packages I find useful. Just type their name after selecting the `Install Package` command:
 
-### ERB Insert and Toggle Commands
+**ERB Insert and Toggle Commands**
 
-Extremely useful when working with Sinatra and Rails views. Install it and then go to `Preferences -> Key Bindings - User` to bind a key combination to active it:
+Extremely useful when working with Sinatra and Rails views. Install it and then go to `Preferences -> Key Bindings - User` to bind a key combination to activate it:
 
 ```json
 [
@@ -63,15 +63,11 @@ Here's what you'll be able to do:
 
 <img src="https://github.com/GuilhermeSimoes/Sublime4Ruby/raw/master/images/erb.gif" />
 
-### Syntax Highlighters
+**Syntax Highlighters**
 
-#### Sass
+* Sass - A syntax highlighter for Sass that supports both `scss` and `sass` syntaxes.
 
-A syntax highlighter for Sass that supports both `scss` and `sass` syntaxes.
-
-#### CoffeeScript
-
-A syntax highlighter for `coffee` files.
+* CoffeeScript - A syntax highlighter for `coffee` files.
 
 ## Contributing
 
