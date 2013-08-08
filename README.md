@@ -2,6 +2,19 @@
 
 Here are some suggestions to improve your Sublime experience:
 
+## Indentation
+
+Open a file with the `.rb` extension and go to `Preferences -> Settings - More -> Syntax Specific - User` to define the type of indentation used automatically in every Ruby file:
+
+```json
+{
+"tab_size": 2,
+"translate_tabs_to_spaces": true
+}
+```
+
+The same process should be repeated for a file with the `.erb` extension. Files with this extension are generally used in Sinatra and Rails views.
+
 ## Key Bindings
 
 Go to `Preferences -> Key Bindings - User` and add the key combinations presented to achieve the following functionalities:
