@@ -52,6 +52,24 @@ Go to `Preferences -> Settings - User` and add the following:
 
 No more temporary and cached files when searching for that crucial file!
 
+## Highlight unsaved tabs
+
+When editing a file, the × in the file tab simply changes to a • by default:
+
+<img src="https://github.com/GuilhermeSimoes/Sublime4Ruby/raw/master/images/subtle_highlight.png" />
+
+Make it a little more obvious when you haven't saved the file by going to `Preferences -> Settings - User` and adding the following:
+
+```json
+{
+"highlight_modified_tabs": true
+}
+```
+
+The exact styling of the unsaved file tabs will vary depending on the theme. Here's how it looks with the Monokai (default) theme:
+
+<img src="https://github.com/GuilhermeSimoes/Sublime4Ruby/raw/master/images/obvious_highlight.png" />
+
 ## Use the Sublime Package Control
 
 This helps discovering, installing, updating and removing packages for Sublime Text. You can install it by going to `View -> Show console` and following [the rest of the instructions](http://wbond.net/sublime_packages/package_control/installation).
