@@ -80,7 +80,7 @@ The `Discover Package` command will take you to [this webpage](http://wbond.net/
 
 Next, I'll display some of the packages I find useful. Just type their name after selecting the `Install Package` command:
 
-**ERB Insert and Toggle Commands**
+**SublimeERB**
 
 Extremely useful when working with Sinatra and Rails views. Install it and then go to `Preferences -> Key Bindings - User` to bind a key combination to activate it:
 
