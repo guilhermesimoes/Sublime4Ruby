@@ -21,13 +21,13 @@ Go to `Preferences -> Key Bindings - User` and add the key combinations presente
 
 **Reveal the current file in the sidebar**
 
-Handy for finding the location of a Rails file.
-
 ```json
 [
 { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar" }
 ]
 ```
+
+Handy for finding the location of the file you're currently working on.
 
 **Tab switch like in any browser**
 
@@ -37,6 +37,8 @@ Handy for finding the location of a Rails file.
 { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
 ]
 ```
+
+There's nothing like consistency in a work environment!
 
 ## Exclude unrelated folders
 
