@@ -82,7 +82,7 @@ The `Discover Package` command will take you to [this webpage](http://wbond.net/
 
 Next, I'll display some of the packages I find useful. Just type their name after selecting the `Install Package` command:
 
-**SublimeERB**
+##### SublimeERB
 
 Extremely useful when working with Sinatra and Rails views. Install it and then go to `Preferences -> Key Bindings - User` to bind a key combination to activate it:
 
@@ -96,7 +96,7 @@ Here's what you'll be able to do:
 
 <img src="https://github.com/GuilhermeSimoes/Sublime4Ruby/raw/master/images/erb.gif" />
 
-**Syntax Highlighters**
+##### Syntax Highlighters
 
 * Sass - A syntax highlighter for Sass that supports both `scss` and `sass` syntaxes.
 
